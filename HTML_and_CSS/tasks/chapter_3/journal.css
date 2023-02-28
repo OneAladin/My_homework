@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    font-size: small;
+}
+
+h1 {
+    font-size: 220%;
+}
+
+h2 {
+    font-size: 130%;
+    font-weight: normal;
+}
+
+blockquote {
+    font-style: italic;
+}
